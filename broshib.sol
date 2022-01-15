@@ -4,7 +4,7 @@
 
 //BROSHIB//
 
-pragma solidity ^0.8.10;
+pragma solidity ^0.8.11;
 
 // SPDX-License-Identifier: Unlicensed
 interface IERC20 {
